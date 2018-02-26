@@ -10,7 +10,7 @@
 
         private static void CallEcho()
         {
-            Uri baseAddr = new Uri("http://localhost:7000/DemoServices/SimpleEchoService");
+            Uri baseAddr = new Uri("http://localhost:7000/DemoServices/SampleRoutingService");
             string message = "Routing demo message";
 
             Console.WriteLine("Press [ENTER] to call SimpleEchoService");
