@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SampleRoutingService
 {
-    internal class Program
+    public class Program
     {
         private static void Main(string[] args)
         {
